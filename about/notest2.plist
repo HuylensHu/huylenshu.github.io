@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>${iconURL57}</string>
+						<string>http://i8cv.com/Icon.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -27,7 +27,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://www.example.com/image.512x512.jpg</string>
+						<string>http://i8cv.com/Icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -39,7 +39,7 @@
 					<key>kind</key>
 					<string>software</string>
 					<key>subtitle</key>
-					<string>Apple</string>
+					<string>com.ai.NoTest</string>
 					<key>title</key>
 					<string>NoTest</string>
 				</dict>
